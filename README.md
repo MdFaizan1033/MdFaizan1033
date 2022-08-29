@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MdFaizan1033
 - 👀 I’m interested in Coding & programing 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Instagram 
+- 💞️ I’m looking to collaborate on Github 
 - 
 
 <!---
